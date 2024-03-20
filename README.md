@@ -1,1 +1,3 @@
-# DESIDABBA
+We deeply resonate with the struggles of students and bachelors like ourselves who often find themselves limited to unhealthy and expensive food options. Personally, we've experienced the challenges of balancing nutritious eating with busy schedules and limited dining choices. This project aligns perfectly with our passion for promoting healthier lifestyles and supporting local communities . 
+Our project addresses the common struggle faced by students and bachelors who are often limited to unhealthy and expensive food options. Many of us have experienced the frustration of trying to find nutritious meals that fit our budget and busy schedules. By providing a platform for homemade food delivery, we aim to solve this problem by offering affordable, nutritious meals that taste like home. Additionally, our project supports local home cooks by providing them with a platform to showcase their culinary skills and generate income 
+
